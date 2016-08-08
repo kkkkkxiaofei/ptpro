@@ -1,4 +1,4 @@
-cp -r ../pt-dev/build/* .
+cp -r ../ptdev/build/* .
 echo "Please enter the version:"
 read version
 date_time=`date +'%m%d'`
